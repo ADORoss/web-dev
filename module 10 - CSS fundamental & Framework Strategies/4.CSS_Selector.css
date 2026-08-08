@@ -1,0 +1,30 @@
+/* element selector */
+h1{
+    color: orange;
+    font-size: 70px;
+}
+
+/* class selector */
+.my-text-style{
+    color: violet;
+    font-size: 100px;
+
+}
+
+/* id selector (unique)*/
+#my_id{
+    color: cyan;
+    font-weight: 900;
+
+}
+
+/* universal selector */
+*{
+    color: golden;
+    font-weight: 900;
+
+}
+
+h1,h2,p{
+    color: chocolate;
+}
