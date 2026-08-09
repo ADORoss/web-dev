@@ -1,0 +1,7 @@
+.my-div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    /* border-radius: 10px 10px 10px 10px; */
+    border-radius: 40px 1px 40px 1px;
+}
